@@ -20,5 +20,8 @@ beberapa kolomnya:
 # housing_london.csv
 diambil dari https://www.kaggle.com/justinas/housing-in-london ini merupakan dataset tentang harga rumah di London
 
+# stroke.csv
+diambil dari https://www.kaggle.com/fedesoriano/stroke-prediction-dataset merupakan dataset tentang pasien stroke (0 tidak pernah, 1 pernah stroke)
+
 # weatherAUS.csv
 diambil dari https://www.kaggle.com/jsphyg/weather-dataset-rattle-package ini merupakan dataset tentang cuaca di Australia, digunakan untuk memprediksi apakah besok hujan atau tidak.
