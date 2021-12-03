@@ -20,3 +20,6 @@ Kolom nya ada 13:
 - the slope of the peak exercise ST segment
 - number of major vessels (0-3) colored by flourosopy
 - thal: 3 = normal; 6 = fixed defect; 7 = reversable defect
+
+# housing_london.csv
+diambil dari https://www.kaggle.com/justinas/housing-in-london ini merupakan dataset tentang harga rumah di London
