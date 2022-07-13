@@ -16,6 +16,7 @@ beberapa kolomnya:
 - resting electrocardiographic results (hasil tes dcg untuk lihat ritme jantung, ada 3 jenis hasil 0,1,2)
 - maximum heart rate achieved (maximum detak jantung)
 - exercise induced angina (merasakan sakit dada saat olahraga? 1 = ya, 0 = tidak)
+- target (0 = sehat; 1 = sakit jantung)
 
 # housing_london.csv
 diambil dari https://www.kaggle.com/justinas/housing-in-london ini merupakan dataset tentang harga rumah di London
